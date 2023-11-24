@@ -35,6 +35,7 @@
 <h4 align="left">Web</h4>
 <p align="left">
 <a href="https://add-mart.com/" target="_blank"><img align="center" src="https://add-mart.com/assets/img/logo.png" alt="Add-mart" height="30" width="40" /></a>
+ <a href="https://jethat.in/" target="_blank"><img align="center" src="https://jethat.in/assets/img/logo2.png" alt="JetHat" height="30" width="40" /></a>
 <a href="https://www.iimlipmx2024.in/" target="_blank"><img align="center" src="https://www.iimlipmx2024.in/images/logo_1.png" alt="iimlko" height="30" width="40" /></a>
 </p>
 <h4 align="left">iOS</h4>
