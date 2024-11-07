@@ -38,16 +38,16 @@
 </p>
 <h4 align="left">iOS</h4>
 <p align="left">
-<a href="https://apps.apple.com/in/app/learn-samskrit/id1560308251" target="_blank"><img align="center" src="https://www.learnsamskrit.online/assets/images/logo.png" alt="Learn samskrit" height="30" width="40" /></a>
+<a href="https://apps.apple.com/in/app/learn-samskrit/id1560308251" target="_blank"><img align="center" src="https://www.learnsamskrit.online/assets/images/logo.png" alt="Learn samskrit" height="30" width="80" /></a>
 <a href="https://apps.apple.com/in/app/samskrit-sound-pictionary/id1605742714" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/kNO_bHIKDTHObRUYuSP51_dElNCT25y_ATJtS-9IFQqia4nM-W3GIvID8GUuGcY40lk=w240-h480-rw" alt="Samskrit Sound Pictionary" height="30" width="40" /></a>
 <a href="https://apps.apple.com/in/app/class-5-samskrit-tutorial/id1605911315" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/AwrcYY5fLP_slHJadRGVrMsA_kGlyVbAZDPEcrlu-gbZgU7KTaYF3sBSW5YBdtmeEA=w240-h480-rw" alt="Samskrit Tutorial" height="30" width="40" /></a>
 </p>
 <h4 align="left">Payment Gateway</h4>
 <p align="left">
-<a href="https://www.sbiepay.sbi/secure/home" target="_blank"><img align="center" src="https://www.sbiepay.sbi/secure/images/logo.png" alt="Sbi" height="40" width="40" /></a>
+<a href="https://www.sbiepay.sbi/secure/home" target="_blank"><img align="center" src="https://www.sbiepay.sbi/secure/images/logo.png" alt="Sbi" height="40" width="80" /></a>
 <a href="https://www.phonepe.com/business-solutions/payment-gateway/" target="_blank"><img align="center" src="https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/bG9jYWw6Ly8vbG9nb3Mvb3JpZ2luYWxzL3Bob25lcGUuanBn.webp" alt="PhonePe" height="40" width="80" /></a>
-<a href="https://razorpay.com/payment-gateway/" target="_blank"><img align="center" src="https://razorpay.com/build/browser/static/razorpay-logo.5cdb58df.svg" alt="razorpay" height="40" width="40" /></a>
-<a href="https://payu.in/static/images/payu-logo-11d6fce42931ca3194943084ba2e9b49.svg" target="_blank"><img align="center" src="https://payu.in/static/images/payu-logo-11d6fce42931ca3194943084ba2e9b49.svg" alt="payu" height="40" width="70" /></a>
-<a href="https://business.paytm.com/payment-gateway" target="_blank"><img align="center" src="https://business.paytm.com/s3assets/images/pg929/pg-overview/svg/pg_new_logo_1749.svg" alt="paytm" height="40" width="60" /></a>
-<a href="https://www.billdesk.com/web/" target="_blank"><img align="center" src="https://www.billdesk.com/web/static/media/billdesk_logo.a692d8fb2a968752ab2647b7bad2b54e.svg" alt="billdesk" height="40" width="70" /></a>
+<a href="https://razorpay.com/payment-gateway/" target="_blank"><img align="center" src="https://razorpay.com/build/browser/static/razorpay-logo.5cdb58df.svg" alt="razorpay" height="40" width="80" /></a>
+<a href="https://payu.in/static/images/payu-logo-11d6fce42931ca3194943084ba2e9b49.svg" target="_blank"><img align="center" src="https://payu.in/static/images/payu-logo-11d6fce42931ca3194943084ba2e9b49.svg" alt="payu" height="40" width="80" /></a>
+<a href="https://business.paytm.com/payment-gateway" target="_blank"><img align="center" src="https://business.paytm.com/s3assets/images/pg929/pg-overview/svg/pg_new_logo_1749.svg" alt="paytm" height="40" width="80" /></a>
+<a href="https://www.billdesk.com/web/" target="_blank"><img align="center" src="https://www.billdesk.com/web/static/media/billdesk_logo.a692d8fb2a968752ab2647b7bad2b54e.svg" alt="billdesk" height="40" width="80" /></a>
 </p>
